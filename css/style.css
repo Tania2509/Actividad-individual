@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=National+Park:wght@200..800&family=Wavefont:wght@4..1000&display=swap');
+
+header {
+    background-color: #598698;
+    padding: 10px;
+}
+header img{
+    width: 110px;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+}
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+nav a {
+    text-decoration: none;
+    font-size: 35px;
+    color:skyblue;
+    font-family: "National Park", sans-serif
+}
